@@ -1,0 +1,5 @@
+id,name,email,mobile,password,personType
+1,nikhil,nikhil@gmail.com,123,123,user
+2,rishabh,rishabh@gmail.com,8871964942,123,user
+3,albert,albert@gmail.com,123,123,admin
+4,asd,asd@asd.com,4896338863563,123,admin
